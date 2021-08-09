@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+ErrorDocument 404 http://localhost/inopak_plus/view/404/404.html
+RewriteRule ^view/data_ukm/data_ukm/([0-9]+)/?$ /view/data_ukm/data_ukm?id_kota=$1 [L]

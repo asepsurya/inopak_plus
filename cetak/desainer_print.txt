@@ -1,0 +1,41 @@
+--------------------------------------------------
+FORM BRAINSTORMING
+DESAINER Only ( Akhda, Asep , Ranran )
+-------------------------------------------------
+
+Jenis Produk: 
+data_Jenis_produk
+------------------------------------
+Merk Produk :
+data_merk
+------------------------------------
+Varian/Komposisi
+data_varian
+-------------------------------------
+Komposisi Utama
+data_komposisi
+------------------------------------
+Gramasi
+data_gramasi
+------------------------------------
+Kelebihan Produk
+data_kelebihan
+-----------------------------------
+Segmanentasi /Pasar yang Dituju
+data_segmentasi
+------------------------------------
+Tagline
+tagline
+-----------------------------------
+Diproduksi oleh	
+data_nama_perusahaan
+----------------------------------
+Redaksi
+redaksi
+-----------------------------------
+Jenis kemasan + Ukuran 
+data_jenis_kemasan
+-----------------------------------
+
+
+
