@@ -370,8 +370,8 @@ header("location:../login/login.php?pesan=belum_login");
     <div class="card-footer tx-14 d-sm-flex pd-10 tab">
       <nav class="nav nav-inline flex-column flex-sm-row">
         <button class="tablinks " onclick="openCity(event, 'London')" id="defaultOpen"><i class="fas fa-box-open"></i> Detile Produk</button>
-        <button class="tablinks" onclick="openCity(event, 'Paris')"><i class="fas fa-image"></i> Photo / Media</button>
-        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+        <!--<button class="tablinks" onclick="openCity(event, 'Paris')"><i class="fas fa-image"></i> Photo / Media</button>
+        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>-->
       </nav>
     </div><!-- card-footer -->
   </div><!-- card -->

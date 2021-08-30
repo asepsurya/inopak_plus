@@ -76,7 +76,7 @@ $excel->getActiveSheet()->getRowDimension('3')->setRowHeight(20);
 // Buat query untuk menampilkan semua data siswa
 $id=$_GET['id_kota'];
 if($id=="0"){
-    $sql = mysqli_query($koneksi, "SELECT * FROM tb_brainstorming ");
+    $sql = mysqli_query($koneksi, "SELECT * FROM tb_brainstorming");
 }else{
     $sql = mysqli_query($koneksi, "SELECT * FROM tb_brainstorming where id_kota='$id'");
 }

@@ -1,4 +1,4 @@
-<?php include '../../asset/lib/koneksi.php'; ?>
+<?php include '../lib/koneksi.php'; ?>
 <table border="1">
     <tr>
         <th>No</th>

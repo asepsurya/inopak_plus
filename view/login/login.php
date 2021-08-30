@@ -74,7 +74,7 @@ session_start();
     </div><!-- d-flex -->
    
 <!-- LARGE MODAL -->
-<div id="modaldemo3" class="modal fade effect-just-me">
+<div id="modaldemo3" class="modal fade ">
             <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
               <div class="modal-content tx-size-sm">
                 <div class="modal-header pd-x-20">

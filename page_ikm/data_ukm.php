@@ -127,21 +127,7 @@
        ?>
     <!-- ########## START: MAIN PANEL ########## -->
     <div class="br-subleft">
-      <div class="mg-t-20 pd-x-10 mg-b-40">
-    
-            <div class="card shadow-base bd-0">
-              <div class="card-header bg-transparent align-items-center">
-                <h6 class="card-title tx-uppercase tx-12 mg-b-0">Jumlah IKM Saat ini </h6>
-                <span class="tx-12 tx-uppercase"><?php echo $data3['nama_kota']?></span>
-              </div><!-- card-header -->
-              <div class="card-body d-xs-flex justify-content-between align-items-center">
-                <h4 class="mg-b-0 tx-inverse tx-lato tx-bold">5,322,425</h4>
-               
-              </div><!-- card-body -->
-            </div><!-- card -->
-          
-
-      </div>
+      
 
       <div class="d-flex justify-content-between align-items-center mg-t-20 pd-x-10 bd-b bd-white-1 pd-b-5">
         <h6 class="tx-uppercase tx-10 mg-b-0 tx-roboto tx-white-7">Data Kota</h6>

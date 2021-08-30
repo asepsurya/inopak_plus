@@ -38,7 +38,7 @@
         <li class="br-menu-item">
           <a href="data_pengajuan" class="br-menu-link <?php if($thispage =="pengajuan") echo 'active' ?>">
             <i class="menu-item-icon icon ion-ios-briefcase-outline tx-22"></i>
-            <span class="menu-item-label">Data Pengajuan Saya</span>
+            <span class="menu-item-label">Data Produk Saya</span>
           </a><!-- br-menu-link -->
         </li><!-- br-menu-item -->
         <label class="sidebar-label pd-x-10 mg-t-20 op-3">Management Pengguna</label>

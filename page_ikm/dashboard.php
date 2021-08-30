@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <?php 
-    session_start();
+   
     $thispage = "dashboard" ; ?>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -50,6 +50,9 @@
 	}
 	?>
   <body>
+    <?php 
+    include 'asset/tapbar.php';
+    ?>
     <!-- left panel -->
     <?php
     include 'asset/left_panel.php';
